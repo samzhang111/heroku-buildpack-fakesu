@@ -1,3 +1,5 @@
+Forked from https://github.com/fabiokung/heroku-buildpack-fakesu to update binaries in compile
+
 # WARNING: this is currently (and unfortunately) unmaintained
 
 I left the code available here to hopefully inspire other people.
